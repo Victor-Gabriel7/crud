@@ -1,0 +1,47 @@
+.container-p{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;    
+}
+
+tr,th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+tr:hover{
+    background-color: #e6e6e6;
+    color: #191313;
+}
+
+.button{
+   background-color: #005cff;
+   color: white;
+   padding: 5px;
+   margin: 5px;
+   border-radius: 10%;
+}
+
+.button-blue{
+    background-color: #005cff;
+}
+
+.button-red{
+    background-color:  #ff0000;
+}
+
+a{
+    text-decoration: none;
+    transition: 1s;
+}
+
+a:hover{
+    border: 1px solid black;
+}
+
