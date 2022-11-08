@@ -1,3 +1,7 @@
+*{
+        text-decoration: none;
+}
+
 .container-p{
     width: 80%;
     margin: 0 auto;
@@ -37,7 +41,6 @@ tr:hover{
 }
 
 a{
-    text-decoration: none;
     transition: 1s;
 }
 
